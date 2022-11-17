@@ -3,7 +3,7 @@
 ## Walab Tomcat 서버에 배포 및 실행테스트
 
 - Maven deploy war file 생성
-> 우측창 Maven 선택 -> package -> 우클릭, Run Maven Build 선택
+> 우측창 Maven 선택 -> Lifecycle -> package -> 우클릭, Run Maven Build 선택
 
 - war 파일명변경 :[자신의 Walab 계정]_1.war
 - 자신의 Walab 계정으로 sftp 연결후, web apps 디렉토리에 war 파일업로드
