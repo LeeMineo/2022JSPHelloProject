@@ -13,4 +13,7 @@
 > put ./target/demo-1.0-SNAPSHOT.war (없으면 직접 만들자) 
 > put ./target/demo-1.0-SNAPSHOT.war p3_22100503_1.war (war파일명 변경) 
 
+> 터미널에서 바로 ls 해서 target으로 들어가서 생성해보자.
+> 
+
 - 실행테스트주소 : http://walab.handong.edu:8080/[자신의 Walab 계정]_1
