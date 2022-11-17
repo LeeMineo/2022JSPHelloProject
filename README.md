@@ -14,6 +14,6 @@
 > put ./target/demo-1.0-SNAPSHOT.war p3_22100503_1.war (war파일명 변경)  <br>
 
 > ~~터미널에서 바로 ls 해서 target으로 들어가서 생성해보자.~~<br>
-> 
+> 저 경로로 파일을 put 하니까 안되서 그냥 lls -l해서 파일목록을 보고 put으로 바로 파일을 올리니까 올라가졌다!!!
 
 - 실행테스트주소 : http://walab.handong.edu:8080/[자신의 Walab 계정]_1
